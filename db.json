@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Tarini | Handpainted village women",
+    
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "2",
+      "name": "Tarini | Handpainted village women",
+    
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "3",
+      "name": "Tarini | Handpainted village women",
+     
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "4",
+      "name": "Tarini | Handpainted village women",
+    
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "5",
+      "name": "Tarini | Handpainted village women",
+  
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "6",
+      "name": "Tarini | Handpainted village women",
+
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "7",
+      "name": "Tarini | Handpainted village women",
+
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "8",
+      "name": "Tarini | Handpainted village women",
+  
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  },
+  {
+      "id": "9",
+      "name": "Tarini | Handpainted village women",
+   
+      "price": "₹4,800",
+      "imageSrc": "https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+  }
+  ]
+}
